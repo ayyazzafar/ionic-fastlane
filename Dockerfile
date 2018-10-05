@@ -1,6 +1,6 @@
 FROM ubuntu:xenial
 
-LABEL MAINTAINER="Ayyaz Zafar <contact@ayyaz.io>"
+LABEL MAINTAINER="Ayyaz Zafarr <contact@ayyaz.io>"
 
 ENV DEBIAN_FRONTEND=noninteractive \
     TERM=xterm
